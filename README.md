@@ -1,4 +1,5 @@
-### 👋 Hello, I'm Subhra Pratim Mondal! 
+### 👋 Hello, I'm Subhra Pratim Mondal! ![Profile views](https://komarev.com/ghpvc/?username=subhrapratim07&color=blue)
+
 
 **Web Developer | Machine Learning Enthusiast | Aspiring Software Developer**
 
