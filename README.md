@@ -29,21 +29,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhrapratim07&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
-</p>
-
----
-
-### 📊 GitHub Analytics & Coding Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subhrapratim07&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=subhrapratim07&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=subhrapratim07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subhrapratim07&layout=compact&theme=tokyonight&hide_border=true" width="41.5%" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/subhrapratim07?theme=dark&font=Fira%20Code" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhrapratim07&theme=tokyonight&no-bg=true&margin-w=15" width="90%" />
 </p>
 
 ---
