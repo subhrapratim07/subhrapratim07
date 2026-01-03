@@ -47,8 +47,13 @@
 ---
 
 ### 🔗 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/subhra-pratim-mondal-349347228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subhra" height="30" width="40" /></a>
-<a href="https://subhra-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="mailto:msubhra364@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" /></a>
-</p>
+- 📧 Email: [msubhra364@gmail.com](mailto:msubhra364@gmail.com)  
+- 💼 LinkedIn: [Subhra Pratim Mondal](https://www.linkedin.com/in/subhra-pratim-mondal-349347228/)  
+- 🌐 Portfolio: [Subhra-Portfolio](https://subhra-portfolio.netlify.app/)
+
+---
+
+#### 🚧 **Under Construction:**
+I'm always working on improving my skills and building new projects. Keep an eye on this space for exciting updates!
+
+
