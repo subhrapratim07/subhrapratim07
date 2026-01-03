@@ -1,70 +1,54 @@
 ### 👋 Hello, I'm Subhra Pratim Mondal! ![Profile views](https://komarev.com/ghpvc/?username=subhrapratim07&color=blue)
 
-
-**Web Developer | Machine Learning Enthusiast | Aspiring Software Developer**
+<p align="left">
+  <a href="https://subhra-portfolio.netlify.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Web+Developer;Machine+Learning+Enthusiast;Aspiring+Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-- 💻 Currently honing my skills in **Web Development** and **Machine Learning**  
-- 🎓 Graduate in **Computer Science** from Asutosh College  
-- 💼 Web Development Intern at [Prodigy InfoTech] and Machine Learning Intern at [SkillCraft Technology]  
-- 🌱 Learning **Pine Script** and **TD Ameritrade’s ADL** to build algorithms for automated trading  
-- 🔭 Building innovative projects in **wildlife, environment,** and **medical fields** for hackathons  
-- 💡 Looking forward to contributing to **open-source** and **collaborative projects**
+### 📖 About Me
+- 💻 Currently honing my skills in **Web Development** and **Machine Learning** - 🎓 Graduate in **Computer Science** from Asutosh College  
+- 💼 Web Development Intern at **Prodigy InfoTech** | ML Intern at **SkillCraft Technology** - 🌱 Learning **Pine Script** and **ADL** for automated trading algorithms  
+- 🔭 Building innovative projects for **Wildlife & Healthcare** hackathons  
+- 💡 Passionate about **Open Source** and collaborative problem-solving
 
 ---
 
 ### 🚀 My Skill Set
 
-- **Languages:**  
-  ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) 
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-- **Web Development:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
-  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
-  ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat)
-
-- **Tools & Technologies:**  
-  ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) 
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **ML & Tools**| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### ⚡ Fun Facts & Interests
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subhrapratim07&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=subhrapratim07&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
-- 🧑‍💻 I enjoy solving coding challenges on LeetCode  
-- 🎨 I love exploring **UI/UX design** and **creative coding**  
-- 🌍 Passionate about **wildlife conservation** and **environmental projects**  
-- 📚 Always reading about the latest advancements in **AI** and **Machine Learning**
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=subhrapratim07&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhrapratim07&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
 ---
 
-### 🏆 Top Projects
+### 🏆 Featured Projects
+* **[AutoParkIQ](https://github.com/subhrapratim07/CarParkingAutoParkIQ)** - ML-based smart parking system.
+* **[Cravory](https://github.com/subhrapratim07/CRAVORY)** - Full-stack React app with PostgreSQL.
+* **[PetVibe](https://github.com/subhrapratim07/Dog-Emotion-Detector)** - Computer Vision project for pet emotions.
 
-- **[AutoParkIQ](https://github.com/subhrapratim07/CarParkingAutoParkIQ):** A machine learning-based parking system    
-- **[Cravory](https://github.com/subhrapratim07/CRAVORY):** A React app for Online Food Order with PostgreSQL
-- **[PetVibe](https://github.com/subhrapratim07/Dog-Emotion-Detector):** A machine learning-based Dog Emotion Detector 
 ---
 
 ### 🔗 Let's Connect
-
-- 📧 Email: [msubhra364@gmail.com](mailto:msubhra364@gmail.com)  
-- 💼 LinkedIn: [Subhra Pratim Mondal](https://www.linkedin.com/in/subhra-pratim-mondal-349347228/)  
-- 🌐 Portfolio: [Subhra-Portfolio](https://subhra-portfolio.netlify.app/)
-
----
-
-#### 🚧 **Under Construction:**
-I'm always working on improving my skills and building new projects. Keep an eye on this space for exciting updates!
+<p align="left">
+<a href="https://www.linkedin.com/in/subhra-pratim-mondal-349347228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subhra" height="30" width="40" /></a>
+<a href="https://subhra-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="mailto:msubhra364@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" /></a>
+</p>
