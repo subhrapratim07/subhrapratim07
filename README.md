@@ -47,7 +47,7 @@
 
 ### 📈 GitHub Stats
 
-![Subhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhrapratim07&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subhrapratim07&theme=tokyonight)
 
 ---
 
