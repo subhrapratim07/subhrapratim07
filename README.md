@@ -9,8 +9,10 @@
 ---
 
 ### 📖 About Me
-- 💻 Currently honing my skills in **Web Development** and **Machine Learning** - 🎓 Graduate in **Computer Science** from Asutosh College  
-- 💼 Web Development Intern at **Prodigy InfoTech** | ML Intern at **SkillCraft Technology** - 🌱 Learning **Pine Script** and **ADL** for automated trading algorithms  
+- 💻 Currently honing my skills in **Web Development** and **Machine Learning**
+- 🎓 Graduate in **Computer Science** from Asutosh College  
+- 💼 Web Development Intern at **Prodigy InfoTech** | ML Intern at **SkillCraft Technology**
+- 🌱 Learning **Pine Script** and **ADL** for automated trading algorithms  
 - 🔭 Building innovative projects for **Wildlife & Healthcare** hackathons  
 - 💡 Passionate about **Open Source** and collaborative problem-solving
 
@@ -27,14 +29,28 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhrapratim07&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+</p>
+
+---
+
+### 📊 GitHub Analytics & Coding Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subhrapratim07&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=subhrapratim07&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=subhrapratim07&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhrapratim07&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/subhrapratim07?theme=dark&font=Fira%20Code" width="60%" />
+</p>
+
+---
+
+### 🐍 Contribution Fun
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subhrapratim07/subhrapratim07/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
@@ -47,13 +63,8 @@
 ---
 
 ### 🔗 Let's Connect
-- 📧 Email: [msubhra364@gmail.com](mailto:msubhra364@gmail.com)  
-- 💼 LinkedIn: [Subhra Pratim Mondal](https://www.linkedin.com/in/subhra-pratim-mondal-349347228/)  
-- 🌐 Portfolio: [Subhra-Portfolio](https://subhra-portfolio.netlify.app/)
-
----
-
-#### 🚧 **Under Construction:**
-I'm always working on improving my skills and building new projects. Keep an eye on this space for exciting updates!
-
-
+<p align="left">
+<a href="https://www.linkedin.com/in/subhra-pratim-mondal-349347228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subhra" height="30" width="40" /></a>
+<a href="https://subhra-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="mailto:msubhra364@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" /></a>
+</p>
