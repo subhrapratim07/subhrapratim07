@@ -53,9 +53,9 @@
 
 ### 🏆 Top Projects
 
-- **[Smart Car Parking System (AutoParkIQ)](https://github.com/subhrapratim07/AutoParkIQ):** A machine learning-based parking system  
-- **[Festivify](https://github.com/subhrapratim07/Festivify):** A React app for booking event tickets with MongoDB integration  
-
+- **[Smart Car Parking System (AutoParkIQ)](https://github.com/subhrapratim07/CarParkingAutoParkIQ):** A machine learning-based parking system    
+- **[Cravory](https://github.com/subhrapratim07/CRAVORY):** A React app for Online Food Order with PostgreSQL
+- **[PetVibe](https://github.com/subhrapratim07/Dog-Emotion-Detector):** A machine learning-based Dog Emotion Detector 
 ---
 
 ### 🔗 Let's Connect
