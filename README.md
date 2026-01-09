@@ -43,7 +43,7 @@
 
 ### 🐍 Contribution Fun
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhrapratim07&theme=tokyonight&column=7&margin-w=15" width="100%"
+  <img src="https://raw.githubusercontent.com/subhrapratim07/subhrapratim07/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
