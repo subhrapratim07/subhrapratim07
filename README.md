@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=subhrapratim07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subhrapratim07&layout=compact&theme=tokyonight&hide_border=true" width="41.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhrapratim07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrapratim07&layout=compact&theme=tokyonight&hide_border=true" width="41.5%" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subhrapratim07&theme=tokyonight&margin-w=15" width="90%" />
